@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Barbapapazes Nuxter profile](https://nuxters.nuxt.com/card/Barbapapazes/og.png)](https://nuxters.nuxt.com/Barbapapazes)
+
 <!--
 **Barbapapazes/barbapapazes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
